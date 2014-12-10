@@ -8,7 +8,7 @@ public class Game {
      * Main method and initializer for the whole program
      */
     public static void main(String[] args){
-        System.out.println("test");
+        System.out.println("test again");
     }
 
 }
